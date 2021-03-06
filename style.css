@@ -1,0 +1,45 @@
+body{
+    background-color: darkmagenta;
+}
+p{
+    font-family: 'Times New Roman';
+    color: white;
+}
+.conf1{
+    color: lightgray;
+    text-align:"left";
+}
+#conf2{
+    color: violet;
+}
+figcaption{
+    text-align: center;
+    color: whitesmoke;
+}
+p, image{
+    display: inline-block;
+}
+.corpo{
+    margin: 200px;
+    width: 1260px;
+    margin-top: 50px;
+}
+.conteudo{
+    display: table;
+}
+.imagem{
+    display: table-cell;
+    float: left;
+    margin-top: 20px;
+    margin-right: 100px;
+    
+}
+.texto{
+    display: table-cell;
+    float: left;
+    width: 500px;
+}
+#oval{
+    border: 2px white;
+    border-radius: 300px;
+}
